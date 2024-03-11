@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+img{
+    margin: auto;
+    border-radius: 100%;
+    transition: 2s all ease;
+}
+#d1:hover{
+transition: 2s all ease;
+transform: scale(0.5) rotate(360deg);
+
+}
+h1, h2, h3{
+    text-shadow: 5px 5px 5px blueviolet;
+}
